@@ -1,3 +1,6 @@
 [submodule "CUDA-1GPU"]
 	path = CUDA-1GPU
 	url = https://github.com/yszheda/CUDA-knn-1GPU.git
+[submodule "OpenCL-1GPU"]
+	path = OpenCL-1GPU
+	url = https://github.com/yszheda/OpenCL-knn-1GPU.git
