@@ -7,3 +7,6 @@
 [submodule "CUDA-pthread-GPUs"]
 	path = CUDA-pthread-GPUs
 	url = https://github.com/yszheda/CUDA-knn-pthread.git
+[submodule "CUDA-MPI-GPUs"]
+	path = CUDA-MPI-GPUs
+	url = https://github.com/yszheda/CUDA-knn-MPI.git
