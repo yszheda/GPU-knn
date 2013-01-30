@@ -4,3 +4,6 @@
 [submodule "OpenCL-1GPU"]
 	path = OpenCL-1GPU
 	url = https://github.com/yszheda/OpenCL-knn-1GPU.git
+[submodule "CUDA-pthread-GPUs"]
+	path = CUDA-pthread-GPUs
+	url = https://github.com/yszheda/CUDA-knn-pthread.git
